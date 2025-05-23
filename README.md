@@ -1,1 +1,1 @@
-Note Keeper CLI is a lightweight command-line tool built with Python that lets you easily add, list, and delete personal notes stored locally in a JSON file. It’s perfect for quick note-taking without leaving the terminal.
+
